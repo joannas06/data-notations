@@ -10,3 +10,17 @@
         <price currency="USD">799</price>
     </smartphone>
 </smartphones>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Apple" model="Iphone 17" releaseYear="2025">
+        <specs>
+            <screenSize unit="inch">6.2</screenSize>
+            <batteryCapacity unit="mAh">4700</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">50</camera>
+        </specs>
+        <price currency="USD">1299</price>
+    </smartphone>
+</smartphones>

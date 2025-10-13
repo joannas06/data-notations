@@ -53,5 +53,34 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {   
+        "name": "Reserved",
+        "founded": 2002,
+        "headquarters": "La, USA",
+        "employees": 3123343,
+        "products": [
+            "Casual Wear"
+        ]
+    },
+    {   
+        "name": "Puma",
+        "founded": 1978,
+        "headquarters": "NY, USA",
+        "employees": 67845332,
+        "products": [
+            "Sportswear",
+            "Shoes"
+        ]
+    },
+    {   
+        "name": "Gucci",
+        "founded": 1958,
+        "headquarters": "Rome, Italy",
+        "employees": 2362182,
+        "products": [
+            "Exclusive wear",
+            "Exclusive accessories"
+        ]
     }
 ]

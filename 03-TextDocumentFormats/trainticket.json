@@ -1,0 +1,10 @@
+{
+    "Destination": "Cracow main station",
+    "tod": "07:10",
+    "eta": "10:21",
+    "price": 20.50,
+    "stops": [
+        "Zabierzów",
+        "Krzeszowice"
+    ]
+}
