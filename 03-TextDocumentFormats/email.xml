@@ -2,5 +2,5 @@
     <sender>johnsmith@email.com</sender>
     <recipient>johndoe@email.com</recipient>
         <subject>hello</subject>
-    <message>Hi I hope you hava a nice day</message>
+    <message>Hi I hope you hava a nice day. My good friend</message>
 </email>    
