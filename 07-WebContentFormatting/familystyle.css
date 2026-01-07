@@ -1,44 +1,13 @@
 body{
-       font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+   font-family: Arial;
+   padding: 100px;
 }
-
-h2{
-    text-align: center;
-    color: red;
+input[type=submit]{
+   background-color: green;
+   color: red;
 }
-
-div{
-    margin-bottom: 30px;
+input{
+   margin-bottom: 10px;
+   width: 100%;
+   border: solid 1px black;
 }
-
- input[type="submit"]:hover{
-    color: white;
-    background-color: #3fd047;
- }
-
- input[type="submit"]{
-    color:white;
-    background-color: #cccc0c;
- }
-
- input{
-    border-style: solid;
-    width: 100%;
- }
-
-  select{
-    border-style: solid;
-    width: 100%;
- }
-
-  textarea{
-    border-style: solid;
-    width: 100%;
- }

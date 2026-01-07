@@ -26,23 +26,22 @@
             font-size: 1.1rem;
         }
 
-        a:link {
-            color: #1916d8;
-            background-color: #98c8da;
-
-        }
-
-        a:visited {
-            color: #3b0347;
-            background-color: rgb(183, 138, 241)
+        a {
+            color: #546121;
+            font-size: 20px;
         }
 
         a:hover {
-            color: red;
-            background-color: #f79494
+            color: #DB9819;
+            font-size: 50px
         }
 
-        a:active {
-            color: green;
-            background-color: #56c986
+        a:active{
+            color: #676767;
+            font-size: 15px;
+        }
+
+        a:visited{
+            color: #414141;
+            font-size: 20px;
         }
