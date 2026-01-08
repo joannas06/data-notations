@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+    font-family: Arial;
+}
+
+body{
+    font-family: Arial;
+}
+
+h2{
+    background-color: lightpink;
+    margin-bottom: 15px;
+}
+
+td{
+    padding: 15px;
+    border: solid black 2px;
+}
+
+th{
+    padding: 6px;
+    border: solid black 5px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+select{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+input[type=submit]{
+    background-color: lightseagreen;
+    color: darkgreen;
+    border-radius: 10px;
+}
+
+input:hover[type=submit]{
+    color: yellow;
+    background-color: lightyellow
+}
+
+a{
+    text-decoration:none;
+    color: #45BB67;
+}
+
+img{
+    border: dotted blue 5px;
+}
+
+table{
+    border: dotted blue 5px;
+}
+
+p{
+    margin-bottom: 15px;
+}
+
+div[class=grand-canyon]{
+    color: darkgreen;
+}
+
+div[class=great-reef]{
+    color:darkblue;
+}
+
+div[class=mnt-everest]{
+    color: darkslategray;
+}
